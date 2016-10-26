@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /install/
+permalink: /demos/
 ---
 
 ### Overview
