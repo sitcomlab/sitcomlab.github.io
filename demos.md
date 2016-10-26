@@ -63,7 +63,9 @@ For a demonstration follow this [link](#) or if you immediately want to see some
 
 The Biographical Thesaurus for North Rhine Westphalia is a tool useful to search for people, their profession, the time period they lived in, and their place of birth, death or activity. It was jointly developed by the Institute for Geoinformatics and the University Library [https://www.ulb.uni-muenster.de/](https://www.ulb.uni-muenster.de/) as part of the LIFE project [http://lodum.de/life/](http://lodum.de/life/). The application uses the map as both search and display tool, and supports keyword-search for people, profession and place. RDF data about people is taken from the lobid API [http://lobid.org/api](http://lobid.org/api), and the portal of the German National Library (DNB).
 
-<!-- TODO: Upload and insert video -->
+<video controls>
+    <source src="https://video.uni-muenster.de/imperia/md/video/geoinformatics/sitcom/biographischer_thesaurus_complete.mp4" type="video/mp4">
+</video>
 
 
 ***
@@ -72,11 +74,15 @@ The Biographical Thesaurus for North Rhine Westphalia is a tool useful to search
 
 Geotagging is a tool to interact with georeferenced videos. By combining a map and a video player, it allows videos to be explored both temporally and spatially. The depiction of the viewsheds allows to select features on the map, which are then shown in the recorded video.
 
-<!-- TODO: Upload and insert video -->
+<video controls>
+    <source src="http://www.uni-muenster.de/imperia/md/video/geoinformatics/sitcom/demo_geotagging_complete.mp4" type="video/mp4">
+</video>
 
 
 ***
 
 # MIA
 
-<!-- TODO: Upload and insert video -->
+<video controls>
+    <source src="http://www.uni-muenster.de/imperia/md/video/geoinformatics/sitcom/mia_final_cut_demo.mp4" type="video/mp4">
+</video>
