@@ -1,2 +1,2 @@
-# sitcomlab.github.io
-The demo site of the Situated Computing and Interaction Lab
+# Sitcom Lab
+The Situated Computing and Interaction Lab
